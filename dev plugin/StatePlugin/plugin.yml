@@ -1,0 +1,11 @@
+name: StatePlugin
+version: 1.0
+author: Clem28L
+main: fr.clem.stateplugin.StatePlugin
+commands: 
+  etat:
+    description: Ceci est la commande des  etat 
+    permission: etat.creer
+
+  
+    
